@@ -5,7 +5,7 @@
  * Вывод даты с русским названием месяца
  *
  * @category 	snippet
- * @version 	0.1
+ * @version 	0.2
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @internal	@properties 
  * @internal	@modx_category add
